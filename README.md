@@ -1,3 +1,3 @@
 ### Hi there, I'm BBuf 👋
 
-![BBuf's github stats](https://github-readme-stats.vercel.app/api?username=BBuf&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+![BBuf's github stats](https://github-readme-stats.vercel.app/api?username=BBuf&theme=nord&count_private=true&show_icons=true&hide=contribs,prs)
