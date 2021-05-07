@@ -45,4 +45,4 @@ I love to share technology, play King of Glory, and contribute to open source pr
 
     - [知乎专栏：GiantPandaCV](https://www.zhihu.com/column/giantpandacv)
     - [微信公众号：GiantPandaCV](https://img-blog.csdnimg.cn/20210507093115219.png)
-    - [CSDN博客：just_sort](blog.csdn.net/just_sort/)
+    - [CSDN博客：just_sort](https://blog.csdn.net/just_sort/)
