@@ -1,3 +1,7 @@
-### Hi there, I'm BBuf 👋
+### Hi there, 👋
 
-![BBuf's github stats](https://github-readme-stats.vercel.app/api?username=BBuf&theme=nord&count_private=true&show_icons=true&hide=contribs,prs)
+I'm BBuf, Working at OneFlow Now.
+
+
+
+![BBuf's github stats](https://github-readme-stats.vercel.app/api?username=BBuf&show_icons=true&theme=tokyonight)
