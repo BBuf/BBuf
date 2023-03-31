@@ -19,11 +19,11 @@ I'm BBuf, Working At [OneFlow](https://github.com/Oneflow-Inc/oneflow) Now.
    
    [![DarkNet Source Code Analysis](https://github-readme-stats.vercel.app/api/pin?username=BBuf&repo=DarkNet&theme=radical)](https://github.com/BBuf/Darknet)
    
-3. Algorithm optimization includes X86/Arm:
+3. Algorithm optimization:
+    
+    [![how-to-optim-algorithm-in-cuda](https://github-readme-stats.vercel.app/api/pin?username=BBuf&repo=how-to-optim-algorithm-in-cuda&theme=radical)](https://github.com/BBuf/how-to-optim-algorithm-in-cuda)
 
     [![Image-processing-algorithm-Speed](https://github-readme-stats.vercel.app/api/pin?username=BBuf&repo=Image-processing-algorithm-Speed&theme=radical)](https://github.com/BBuf/Image-processing-algorithm-Speed)
-  
-    [![How-to-optimize-gemm](https://github-readme-stats.vercel.app/api/pin?username=BBuf&repo=how-to-optimize-gemm&theme=radical)](https://github.com/BBuf/how-to-optimize-gemm)
   
     [![ArmNeonOptimization](https://github-readme-stats.vercel.app/api/pin?username=BBuf&repo=ArmNeonOptimization&theme=radical)](https://github.com/BBuf/ArmNeonOptimization)
 
@@ -31,7 +31,7 @@ I'm BBuf, Working At [OneFlow](https://github.com/Oneflow-Inc/oneflow) Now.
 
     [![onnx_learn](https://github-readme-stats.vercel.app/api/pin?username=BBuf&repo=onnx_learn&theme=radical)](https://github.com/BBuf/onnx_learn)
     
-    [![tvm_learn](https://github-readme-stats.vercel.app/api/pin?username=BBuf&repo=tvm_learn&theme=radical)](https://github.com/BBuf/tvm_learn)
+    [![tvm_mlir_learn](https://github-readme-stats.vercel.app/api/pin?username=BBuf&repo=tvm_mlir_learn&theme=radical)](https://github.com/BBuf/tvm_mlir_learn)
     
     [![onnx2X](https://github-readme-stats.vercel.app/api/pin?username=BBuf&repo=onnx2X&theme=radical)](https://github.com/BBuf/onnx2X)
 
