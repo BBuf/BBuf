@@ -4,7 +4,7 @@ I'm **BBuf (Xiaoyu Zhang)**, a Core Developer at [SGLang](https://github.com/sgl
 
 I focus on **LLM inference optimization**, **CUDA kernel engineering**, and **AI infrastructure** — writing high-performance GPU code and pushing the boundaries of large model serving.
 
-📝 I share technical deep-dives on my WeChat public account **GiantPandaCV** and [知乎专栏](https://www.zhihu.com/column/giantpandacv).
+📝 I share technical deep-dives on my WeChat public account **GiantPandaCV** and [Zhihu column](https://www.zhihu.com/column/giantpandacv).
 
 ---
 
