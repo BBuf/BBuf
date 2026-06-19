@@ -5,7 +5,7 @@
 ```console
 root@bbuf-gpu-node:~# ./profile --scan
 [ok] identity     : Xiaoyu Zhang / BBuf
-[ok] role         : Core Developer @ SGLang | SkyworkAI
+[ok] role         : Core Developer @ SGLang | RadixArk
 [ok] focus        : LLM inference, CUDA kernels, AI infrastructure
 [ok] preferred io : clean kernels, fast serving, measurable wins
 [ok] status       : optimizing the path from model weights to tokens
@@ -67,5 +67,5 @@ PID   SYSTEM                         MODE          SIGNAL
 root@bbuf-gpu-node:~# cat /etc/contact
 GitHub : https://github.com/BBuf
 Blog   : https://www.giantpandacv.com
-Work   : SGLang / SkyworkAI
+Work   : SGLang / RadixArk
 ```
